@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: url("images/gffg.jpg");
   background-position: 50% 50%;
   min-height: 921px;
@@ -10,7 +10,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: url("images/qrbueno.png");
+  background-image: url("images/QRG.png");
   background-position: 50% 50%;
   min-height: 564px;
 }
@@ -131,7 +131,7 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
+  .u-section-1 {
     min-height: 660px;
   }
 
@@ -174,7 +174,7 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
+  .u-section-1 {
     min-height: 1007px;
   }
 
@@ -227,7 +227,7 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
+  .u-section-1 {
     min-height: 829px;
   }
 
@@ -283,7 +283,7 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
+  .u-section-1 {
     min-height: 631px;
   }
 
@@ -317,7 +317,8 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-} .u-section-2 {
+}
+.u-section-2 {
   background-image: none;
 }
 
@@ -344,7 +345,11 @@
 }
 
 .u-section-2 .u-over-slide-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -357,7 +362,11 @@
 }
 
 .u-section-2 .u-over-slide-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -370,7 +379,11 @@
 }
 
 .u-section-2 .u-over-slide-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -383,7 +396,11 @@
 }
 
 .u-section-2 .u-over-slide-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -396,7 +413,11 @@
 }
 
 .u-section-2 .u-over-slide-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -409,7 +430,11 @@
 }
 
 .u-section-2 .u-over-slide-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  background-image: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
+  );
   padding: 20px;
 }
 
@@ -425,7 +450,8 @@
   right: 10px;
   width: 40px;
   height: 40px;
-} .u-section-3 {
+}
+.u-section-3 {
   background-image: none;
 }
 
